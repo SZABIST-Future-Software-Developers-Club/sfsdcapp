@@ -1,0 +1,2 @@
+# sfsdcapp
+The SZABIST Future Software Developers Club (SFSDC) Mobile Application is designed as a high-performance, cross-platform mobile solution created to digitize, unify, and scale all operations, member management, events, and resources of SFSDC at SSC SZABIST University. Developed in partnership with Ashfaq Ali Zardari Store, LLP. (AAZS).
